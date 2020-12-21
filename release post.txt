@@ -1,0 +1,25 @@
+Name: Fairchild Island
+Map Format: Doom (WAD)
+Ports Tested: GZDoom, DOOM2.EXE, BOOM
+Ports That Work: GZDoom
+Ports That Have No Chance To Ever Work: DOOM2.EXE, BOOM
+IWAD: DOOM2.EXE or compatible
+Map(s): START (enter command `MAP START`)
+Music: Me
+Gameplay: Single player, multiplayer co-op, not deathmatch
+Difficulty Settings: Yes
+Multiplayer Placement: Yes
+Build Time: 3 or 4 months
+Textures: ID Software
+Requirements: Freelook recommended but not strictly needed
+
+Story: You like to go fishing from time to time near a large lake. Well, you were out on your boat, hit some unexpected craggy rocks, and crashed ashore on Fairchild Island. Your boat is split in half and it's too far to swim back. The island is rumored to have a hidden gateway to an ancient water shrine that's infested from demons of Hell. Luckily you have your trusty shotgun ... and hopefully there's another boat somewhere.
+
+GZDoom required; uses DOOM2.EXE or compatible WAD; developed with Brutal DOOM mod in mind and very recommended but not needed. This has a MAPINFO with a 1-level episode and ending like my earlier WADs, just start the game, or enter "MAP START" to restart. Because of the MP3 music file, and the fact that this WAD has a very large number of sectors and linedefs, this WAD is big.
+
+There is NO WAY this will work in the original DOOM2.EXE. BOOM segfaults when trying to load this WAD. Sorry. You'll want freelook anyway to look at all the pretty ceiling decay.
+
+Thanks for checking out this WAD.
+
+The latest version of this WAD is on Github: https://github.com/lawrencecandilas/fairchild-island
+
