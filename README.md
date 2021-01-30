@@ -9,6 +9,12 @@ There is NO WAY this will work in the original DOOM2.EXE.  BOOM segfaults when t
 
 Thanks for checking out this WAD.
 
+## Special Thanks
+
+I would like to thank cuppykeks from Doomworld for spending some time with me and this WAD on Discord and providing a lot of detailed feedback.  This feedback focused on something I didn't even really test during development: playing this WAD without the Brutal Doom mod enabled and using GZDoom in software rendering mode--and this is what you'll be doing if you're looking for an experience as close to classic DOOM as possible.
+
+The result is Update 20210131, which includes correction of a few issues (including some serious HoM's) and many changes (mostly in enemy placement but also weapon placement and playfield design) to make the gameplay less grindy if you are not using the Brutal Doom mod.  A secret has also been added.
+
 ## Story
 
 You like to go fishing from time to time near a large lake.  Well, you were out on your boat, hit some unexpected craggy rocks, and crashed ashore on Fairchild Island.  Your boat is split in half and it's too far to swim back.  The island is rumored to have a hidden gateway to an ancient water shrine that's infested from demons of Hell.  Luckily you have your trusty shotgun ... and hopefully there's another boat somewhere.
